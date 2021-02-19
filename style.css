@@ -23,8 +23,10 @@ figcaption {
 }
 
 #featured-property p {
+  margin-left: auto;
+  margin-right: auto;
   width: 800px;
-  text-align: center;
+  
 }
   
 #details div {
